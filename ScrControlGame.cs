@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 /// <summary>
 /// ----------------------------------------------------------------------------------
 /// DESCRIPCIÓ: Script associat per als controls generals del joc
-/// AUTOR:  Lau
+/// AUTOR:  Omar Muñoz
 /// VERSIÓ: 1.0
 /// APUNT: no sé perquè eñs PecesRestantes no funciona bé.
 /// ----------------------------------------------------------------------------------
